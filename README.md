@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Oguz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzerkara&show_icons=true&theme=dark&hide=prs,issues,contribs&card_width=400)](https://github.com/oguzerkara/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzerkara&layout=compact&theme=dark&card_width=350)](https://github.com/oguzerkara/github-readme-stats)
+[![Oguz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzerkara&show_icons=true&theme=dark&hide=prs,issues,contribs&card_width=400)](https://github.com/oguzerkara/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzerkara&layout=compact&theme=dark&card_width=300)](https://github.com/oguzerkara/github-readme-stats)
 
 
 <!--
