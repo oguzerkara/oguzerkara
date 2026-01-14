@@ -17,3 +17,7 @@ jobs:
           USERNAME: oguzerkara
           BRANCH: main
           THEME: tokyoNight
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "ok"
