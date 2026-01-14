@@ -1,5 +1,8 @@
 ## Hi there 👋
-[![Oguz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzerkara&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&count_private=true&card_width=400)](https://github.com/oguzerkara/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzerkara&layout=compact&theme=tokyonight&count_private=true&card_width=300)](https://github.com/oguzerkara/github-readme-stats)
+![Oguz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzerkara&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzerkara&layout=compact&theme=tokyonight&count_private=true&langs_count=8&hide_border=true&cache_seconds=1800)
+
 
 
 <!--
